@@ -25,6 +25,9 @@
 - [pittsburgh cash home buyers, what to check](https://local-business-guides.github.io/buybox-cash-home-buyers-pittsburgh/pittsburgh-cash-home-buyers/): Compare pittsburgh cash home buyers and get clear steps for selling your Pittsburgh property on your timeline.
 - [cash for houses pittsburgh, a seller's guide](https://local-business-guides.github.io/buybox-cash-home-buyers-pittsburgh/cash-for-houses-pittsburgh/): Learn how cash for houses pittsburgh works and discuss a simpler sale on your timeline in Pittsburgh.
 
+## Newsroom
+- [BuyBox Cash Home Buyers Releases Pittsburgh Home-Selling Guide](https://local-business-guides.github.io/buybox-cash-home-buyers-pittsburgh/news/2026-10-27-buybox-cash-home-buyers-releases-pittsburgh-home-s/): BuyBox Cash Home Buyers has released a guide, a YouTube video and a podcast episode about selling a Pittsburgh house for cash. (2026-10-27)
+
 ## Pages
 - [Sell My House Fast in Pittsburgh, Pennsylvania](https://local-business-guides.github.io/buybox-cash-home-buyers-pittsburgh/): Sell directly for cash in Pittsburgh, without repairs, commissions, showings, or a cleaning list. Call +1412-200-1000.
 - [About BuyBox Cash Home Buyers](https://local-business-guides.github.io/buybox-cash-home-buyers-pittsburgh/about/): About BuyBox Cash Home Buyers, Pittsburgh.
@@ -32,3 +35,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/buybox-cash-home-buyers-pittsburgh/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/buybox-cash-home-buyers-pittsburgh/news/rss.xml)
